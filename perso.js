@@ -27,18 +27,18 @@ class Combattant {
 }
 
     
-    let fred = new Combattant("Fred", pickMe(100, 200), pickMe(2, 5));
-    let jawad = new Combattant("Jawad", pickMe(100, 200), pickMe(2, 5));
-    let florence = new Combattant("florence", pickMe(100, 200), pickMe(2, 5));
-    let yolo = new Combattant("Yolo", pickMe(100, 200), pickMe(2, 5));
-    let pipolo = new Combattant("Pipolo", pickMe(100, 200), pickMe(2, 5));
-    let jonathan = new Combattant("Jonathan", pickMe(100, 200), pickMe(2, 5));
-    let youssef = new Combattant("Youssef", pickMe(100, 200), pickMe(2, 5));
-    let melvin = new Combattant("Melvin", pickMe(100, 200), pickMe(2, 5));
-    let bili = new Combattant("Bili", pickMe(100, 200), pickMe(2, 5));
-    let yanis = new Combattant("Yanis", pickMe(100, 200), pickMe(2, 5));
-    let tom = new Combattant("Tom", pickMe(100, 200), pickMe(2, 5));
-    let coralie = new Combattant("Coralie", pickMe(100, 200), pickMe(2, 5));
+let fred = new Combattant("Fred", pickMe(100, 200), pickMe(2, 5));
+let jawad = new Combattant("Jawad", pickMe(100, 200), pickMe(2, 5));
+let florence = new Combattant("florence", pickMe(100, 200), pickMe(2, 5));
+let yolo = new Combattant("Yolo", pickMe(100, 200), pickMe(2, 5));
+let pipolo = new Combattant("Pipolo", pickMe(100, 200), pickMe(2, 5));
+let jonathan = new Combattant("Jonathan", pickMe(100, 200), pickMe(2, 5));
+let youssef = new Combattant("Youssef", pickMe(100, 200), pickMe(2, 5));
+let melvin = new Combattant("Melvin", pickMe(100, 200), pickMe(2, 5));
+let bili = new Combattant("Bili", pickMe(100, 200), pickMe(2, 5));
+let yanis = new Combattant("Yanis", pickMe(100, 200), pickMe(2, 5));
+let tom = new Combattant("Tom", pickMe(100, 200), pickMe(2, 5));
+let coralie = new Combattant("Coralie", pickMe(100, 200), pickMe(2, 5));
 
-    création(coralie,florence);
 
+création(fred, yolo);

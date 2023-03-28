@@ -1,4 +1,5 @@
 // regarde qui tape et enlève les points de vie
+
 function bagarre(comb1, comb2) {
     let result = "tapez vous";
 	let comb1pv = document.querySelector("#comb1-pv");
@@ -35,7 +36,3 @@ function bagarre(comb1, comb2) {
         );
     }
     
-    création(coralie,florence);
-
-    let player1 = document.querySelector('#player1')
-    console.log(player1.otpion)
