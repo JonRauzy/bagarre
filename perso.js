@@ -42,3 +42,4 @@ let coralie = new Combattant("Coralie", pickMe(100, 200), pickMe(2, 5));
 
 
 création(fred, yolo);
+ 
